@@ -1,0 +1,18 @@
+body{
+	color: #000;
+	background-color: #f8bbd0;
+	font-family: Futura, sans serif;
+	font-weight: normal;
+}
+
+ol{
+	text-align: center;
+	list-style-type: none;
+}
+li:hover{
+	color:#FFF;
+}
+#circle{
+	margin-left: -300px;
+	margin-top: -500px;
+}
