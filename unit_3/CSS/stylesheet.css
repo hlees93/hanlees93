@@ -5,6 +5,11 @@ body{
 	font-weight: normal;
 }
 
+h1{
+	font-family: Sarina;
+
+}
+
 ol{
 	text-align: center;
 	list-style-type: none;
