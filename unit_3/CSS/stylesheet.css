@@ -1,18 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
 body{
 	color: #000;
 	background-color: #f8bbd0;
-	font-family: Futura, sans serif;
-	font-weight: normal;
+	font-family:'Amatic SC', cursive;
+	font-weight: bold;
 }
-
+#slogan{
+	font-size: 2em;
+}
 h1{
 	font-family: Sarina;
 
 }
-
+.navlist {
+	font-family:'Amatic SC', cursive;
+}
 ol{
 	text-align: center;
 	list-style-type: none;
+	line-height: 2em;
+	letter-spacing: .3em;
+	font-weight: bold;
 }
 li:hover{
 	color:#FFF;
