@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+body{
+	background: rgba(248,187,208,1);
+}
+
+h1{
+	color:rgb(0,0,0);
+	font-family:Sarina, cursive;
+	font-weight: bold;
+}
+h3{
+	font-size:12em;
+}
+li{
+	margin-right:20px;
+	font-size:1em;
+	font-weight:bold;
+}
+li:hover {
+	color:rgb(255,255,255);
+}
+ul,li{
+	display:inline;
+}
+#contact{
+	background:rgb(0,0,0);
+	color:rgb(255,255,255);
+	padding:4px 4px 4px 4px;
+	width:60px;
+	text-align:center;
+	border-radius:6px;
+}
+#contact:hover{
+	background:rgb(70,70,70);
+}
+.font2{
+	font-family:'Amatic SC', cursive;
+}
