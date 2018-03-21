@@ -2,6 +2,7 @@
 
 body{
 	background: rgba(248,187,208,1);
+	font-size:40px;
 }
 
 h1{
@@ -10,10 +11,12 @@ h1{
 	font-weight: bold;
 }
 h3{
-	font-size:12em;
+	font-size:1.2em;
 }
 li{
-	margin-right:20px;
+	margin-right:100px;
+}
+#topbuttons{
 	font-size:1em;
 	font-weight:bold;
 }
@@ -36,4 +39,35 @@ ul,li{
 }
 .font2{
 	font-family:'Amatic SC', cursive;
+}
+header, footer{
+	font-family:futura, sans-serif;
+}
+header{
+	background-color: #ffed74;
+	font-size:.5em;
+ 	margin: 20px auto;
+ 	padding:20px, 20px;
+}
+nav{
+	background-color: #e8c66a;
+}
+article{
+	background-color: #e89c6c;
+}
+aside{
+	background-color: #ffc675;
+}
+#circle{
+	margin-left:-400px;
+	margin-top:-500px;
+}
+footer{
+	font-size:1em;
+	font-weight:lighter;
+	display:inline-block;
+	text-align:center;
+}
+#copyright{
+	display:inline;
 }
